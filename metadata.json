@@ -1,0 +1,8 @@
+{
+  "name": "Remix PakShop",
+  "description": "Pakistan E-Commerce platform with multi-unit variants (Grams, Liters, Sizes), auto/manual price calculation, JazzCash/EasyPaisa/COD checkout, and Trax/PostEx courier tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
